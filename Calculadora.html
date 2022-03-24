@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Calculadora</title>
+        <link href="Calculadora.css" rel="stylesheet">
+        <script type="text/javascript" src="Calculadora.js"></script>
+    </head>
+    <body>
+        <!-- Criando o corpo da calculadora -->
+        <div id= Calculadora>
+
+            <!--Criando o input do disply da calculadora-->
+            <input type="text" id="visor">
+                             
+            <!--Criando os botões das operações-->
+            <!--Criando os botões dos números-->
+            <!--Criando o botão de igual--> 
+            <!--Organizando os botões-->      
+            <!--Criando o botão de apagar-->
+            <div id= "botões"> 
+                <button type="submit" class="número" value="7" onclick="preencher(7);">7</button>
+                <button type="submit" class="número" value="8" onclick="preencher(8);">8</button>
+                <button type="submit" class="número" value="9" onclick="preencher(9);">9</button>
+                <button type="submit" class="multiplicação" value="*" onclick="preencher('*');">*</button>
+                <br/><br/>
+                <button type="submit" class="número" value="4" onclick="preencher(4);">4</button>
+                <button type="submit" class="número" value="5" onclick="preencher(5);">5</button>
+                <button type="submit" class="número" value="6" onclick="preencher(6);">6</button>
+                <button type="submit" class="subtração" value="-" onclick="preencher('-');">-</button>
+                <br/><br/>
+                <button type="submit" class="número" value="1" onclick="preencher(1);">1</button>
+                <button type="submit" class="número" value="2" onclick="preencher(2);">2</button>
+                <button type="submit" class="número" value="3" onclick="preencher(3);">3</button>
+                <button type="submit" class="adção" value="+" onclick="preencher('+');">+</button> 
+                <br/><br/>
+                <button type="submit" class="número" value="0" onclick="preencher(0);">0</button>
+                <button type="submit" class="igual" onclick="calcular ();">=</button>
+                <button type="reset" class="limpar" onclick="limpar();">CE</button>  
+                <button type="submit" class="divisão" value="/" onclick="preencher('/');">/</button>
+            </div>
+
+        </div>    
+    </body>
+</html>
