@@ -1,5 +1,5 @@
 # Calculadora-js
-Projeto pessoal com o ituido de praticar as linguagens web através da copnstrução de uma calculadora.
+Projeto pessoal com o ituido de praticar as linguagens web através da construção de uma calculadora.
 
 DEV Estudante: Bruno Justo <br/>
 IDE Utilizada: VScode <br/>
