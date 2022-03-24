@@ -1,7 +1,7 @@
 # Calculadora-js
 Projeto pessoal com o ituido de praticar as linguagens web através da copnstrução de uma calculadora.
 
-DEV Estudante: Bruno Justo \n
+DEV Estudante: Bruno Justo <br/>
 IDE Utilizada: VScode
 Linguagens urilizadas: HTML, CSS e JavaScript
 Tipo de projeto: Full Stack 
