@@ -6,4 +6,4 @@ IDE Utilizada: VScode <br/>
 Linguagens urilizadas: HTML, CSS e JavaScript <br/>
 Tipo de projeto: Full Stack 
 
-![imagem do projeto](https://user-images.githubusercontent.com/85250651/135770378-7ae916b2-a86b-4caf-a9f0-10098da44c16.png)
+![imagem do projeto](https:file:///C:/Users/Bruno%20Justo/Downloads/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/Programa%C3%A7%C3%A3o/Portif%C3%B3lio/JS/Calculadora/Img%20do%20projeto/Calcu%C3%A7adora.png)
